@@ -227,9 +227,7 @@ void main(void) {
 		}
 	}  
 Lab6
-
 Упражнение 1:
-
 #include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
