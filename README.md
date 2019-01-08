@@ -1,4 +1,3 @@
-Упражнение 1:
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
@@ -14,7 +13,7 @@ void main(void) {
 	
 	printf("%g Read",y);
 }
-Упражнение 2:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
