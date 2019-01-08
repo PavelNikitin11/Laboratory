@@ -198,6 +198,7 @@ int main() {
 	n=0;
 	s=0;
 }
+
 Lab5
 Упражнение 1:
 #include <stdio.h>
