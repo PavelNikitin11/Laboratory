@@ -1,4 +1,3 @@
-Lab1
 Упражнение 1:
 #include <stdio.h>
 #include <stdlib.h>
