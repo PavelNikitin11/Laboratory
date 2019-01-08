@@ -226,5 +226,26 @@ void main(void) {
 			printf("%d ",a[i][j]);//матрица
 		}
 	}  
-
-
+Lab6
+Упражнение 1:
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <locale.h>
+void main(void)
+{
+	int i,k,j,n;
+	float a[n];
+	k=0;
+	scanf("%d",&n);
+for (i=0;i<n;i++){
+	a[i]=rand()%2;
+	printf("%g ",a[i]);
+	if(i%2!=0){
+	k+=a[i];
+	}
+    
+  }
+  printf("%d ",k);
+}
